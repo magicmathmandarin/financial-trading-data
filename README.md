@@ -1,4 +1,4 @@
-visualize and analyze data using python using historical (since 2010) to most recent Bitcoin 比特币 trading data from Yahoo Finance
+To visualize and analyze data using python using historical (since 2010) to most recent Bitcoin 比特币 trading data from Yahoo Finance
 We can apply the techniques to any stock or other time series data. 
  
 # It is much better to see the data yourself than just hearing from other people. 百闻不如一见
