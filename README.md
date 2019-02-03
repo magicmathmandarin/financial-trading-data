@@ -1,7 +1,7 @@
 visualize and analyze data using python using historical (since 2010) to most recent Bitcoin trading data from Yahoo Finance
 We can apply the techniques to any stock or other time series data. 
  
-#It is better to know the data yourself than just hearing from other people. 
+# It is better to know the data yourself than just hearing from other people. 
 Wouldn't it be cool if you develop a magical ability to tell which stock is going to do great like Warren Buffet?  Well, that will take a lot of learning of different kinds of subjects. But the most important is numbers. 
  
 # Bitcoin trading prices and volume time series
