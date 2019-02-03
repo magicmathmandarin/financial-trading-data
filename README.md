@@ -1,7 +1,7 @@
-visualize and analyze data using python using historical (since 2010) to most recent Bitcoin trading data from Yahoo Finance
+visualize and analyze data using python using historical (since 2010) to most recent Bitcoin 比特币 trading data from Yahoo Finance
 We can apply the techniques to any stock or other time series data. 
  
-#It is better to know the data yourself than just hearing from other people. 
+# It is much better to see the data yourself than just hearing from other people. 百闻不如一见
 Wouldn't it be cool if you develop a magical ability to tell which stock is going to do great like Warren Buffet?  Well, that will take a lot of learning of different kinds of subjects. But the most important is numbers. 
  
 # Bitcoin trading prices and volume time series
@@ -19,7 +19,7 @@ No matter where the data comes from, we should do some basic checking for anomal
 2. Check if there is any missing data
 3. Error checking
 
-## Time series data essential data mining tools
+## Time series data 时间序列 essential data mining tools
 1. Rolling (moving) window 
 2. Resampling
 3. Select data with different frequencies
