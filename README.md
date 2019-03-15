@@ -11,7 +11,10 @@ This repository is for visualize and analyze financial trading data using python
 # See the data yourself than just hearing from other people. 百闻不如一见
 Wouldn't it be cool if you develop a magical ability to tell which stock is going to do great like Warren Buffet?  Well, that will take a lot of learning of different kinds of subjects. But the most important is numbers. 
 
-# *learning by doing*  
+# *learning by doing*
+- Build skills
+- Be able to create rather than just consume, or worse yet, being ignorant.
+  
 While we can go to sites such as Yahoo Finance, Google and many more to visualize the data, we want to be able to analyze the data anyway we want.  This is the zen of learning: learning by doing. 
  
 We can apply the techniques we learn to any stock or other time series data and to develop new techniques and insights.   
